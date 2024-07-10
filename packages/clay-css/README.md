@@ -15,8 +15,8 @@ You can view the various components on [the Clay site](http://clayui.com).
 
 ```
 <!--
-* SPDX-FileCopyrightText: © 2022 Liferay, Inc. <https://liferay.com>
-* SPDX-FileCopyrightText: © 2022 Contributors to the project Clay <https://github.com/liferay/clay/graphs/contributors>
+* SPDX-FileCopyrightText: (c) 2022 Liferay, Inc. https://liferay.com
+* SPDX-FileCopyrightText: (c) 2022 Contributors to the project Clay <https://github.com/liferay/clay/graphs/contributors>
 *
 * SPDX-License-Identifier: BSD-3-Clause
 -->
